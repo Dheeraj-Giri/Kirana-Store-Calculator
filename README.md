@@ -2,7 +2,7 @@
 
 ### This is a small project.
 
-#### This project is for any kirana store person they can use it for making their bills. they can generate the bill for each custumer as well as they can add the product name with respect to their price.
+#### This project is for any kirana store person they can use it for making their bills. they can generate the bill for each custumer as well as it helps to add the product name with respect to their price.
 
 ## How to use :
 - It is very easy to use.
